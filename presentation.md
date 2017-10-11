@@ -1,3 +1,28 @@
+# Scrum methodology
+https://source.uit.no/hpe001/presentasjon-utviklingslunsj-scrum
+
+---
+
+# Agile manifesto
+
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:  
+  
+**Individuals and interactions** over processes and tools  
+**Working software** over comprehensive documentation  
+**Customer collaboration** over contract negotiation  
+**Responding to change** over following a plan  
+  
+That is, while there is value in the items on the right, we value the items on the left more.
+
+---
+
+<!-- .slide: data-background-image="illustrations/agile_good.jpg" data-background-size="contain" -->
+
+note:
+Plan, build, launch, feedback...
+
+---
+
 # Scrum
 
 > Scrum is a framework for managing software development. Scrum is designed
@@ -55,8 +80,16 @@ note:
 
 ---
 
+<!-- .slide: data-background-image="illustrations/agile_bad.png" data-background-size="contain" -->
+
+note:
+Bad agile.
+
+---
+
 # Tanker?
 
 note:
 - TODO: Scrums historie
 - TODO: Sammenhengen mellom agile og scrum
+- TODO: Scrum vs kanban
